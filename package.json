@@ -1,0 +1,19 @@
+{
+  "name": "agentcraft-blog",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AgentCraft —— 大模型应用开发工程师的个人技术博客，基于 VitePress 构建",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "mermaid": "^11.4.1",
+    "vitepress": "^1.6.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
