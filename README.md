@@ -2,6 +2,9 @@
 
 基于 VitePress 的个人技术博客 / 项目作品集。极简科技风，支持亮暗两套配色、本地搜索与 Mermaid 架构图，推送即自动部署到 GitHub Pages。
 
+- 线上地址：<https://yxq121317.github.io/AgentCraft/>
+- 仓库地址：<https://github.com/Yxq121317/AgentCraft>
+
 ## 技术栈
 
 - **VitePress 1.6**（Vue 3 + TypeScript）

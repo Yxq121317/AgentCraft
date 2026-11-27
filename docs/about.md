@@ -51,8 +51,8 @@ description: 大模型应用开发工程师，专注 Agent 编排、RAG 与多�
 
 ## 联系我
 
-- GitHub：[github.com/your-name](https://github.com/your-name)
-- 邮箱：hello@example.com
+- GitHub：[github.com/Yxq121317](https://github.com/Yxq121317)
+- 邮箱：hello@example.com（换成你自己的）
 - 微信 / 公众号：占位，换成你自己的即可
 
-> 本站基于 [VitePress](https://vitepress.dev/) 构建，源码在 [GitHub](https://github.com/) 上开源。
+> 本站基于 [VitePress](https://vitepress.dev/) 构建，源码在 [GitHub](https://github.com/Yxq121317/AgentCraft) 上开源。

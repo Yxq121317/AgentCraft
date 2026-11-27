@@ -81,7 +81,7 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/Yxq121317' }],
 
     search: { provider: 'local' },
 
@@ -101,8 +101,7 @@ export default defineConfig({
     },
 
     editLink: {
-      // 换成你自己的仓库地址
-      pattern: 'https://github.com/your-name/agentcraft-blog/edit/main/docs/:path',
+      pattern: 'https://github.com/Yxq121317/AgentCraft/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
 
